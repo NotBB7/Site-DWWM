@@ -13,5 +13,9 @@
     align-items: center;
 }
 .navbar-nav .test{
-    
+    background-color: rgb(3, 94, 23);  
+    border-radius: 50px;
+    width: auto;
+    height: 30px;
+    justify-content: center;
 }
