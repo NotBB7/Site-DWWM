@@ -120,6 +120,7 @@ header{
   font-size: 23px;
   font-weight: 600;
   color: #3e2093;
+  text-align: center;
 }
 .right-side .input-box{
   height: 50px;
