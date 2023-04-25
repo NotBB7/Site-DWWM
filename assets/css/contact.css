@@ -51,7 +51,7 @@
 
 
 
-
+/*contact*/
 
 
 header{
@@ -63,7 +63,7 @@ header{
   justify-content: center;
 }
 .container{
-  width: 65%;
+  width: 70%;
   background: #fff;
   border-radius: 6px;
   padding: 20px 60px 30px 40px;
@@ -148,6 +148,7 @@ header{
 .right-side .button{
   display: inline-block;
   margin-top: 12px;
+  
 }
 .right-side .button input[type="button"]{
   color: #fff;
